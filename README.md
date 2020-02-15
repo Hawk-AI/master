@@ -1,6 +1,11 @@
 # Introduction 
 TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
+# Google Drive Files with Gantt Chart & Study Paths 
+
+Shared Folder: https://drive.google.com/drive/folders/1xElf940wS1ivP94xGNbZU0nvooIliiuL?usp=sharing
+Gantt Chart: https://docs.google.com/spreadsheets/d/158jgmuGLLzKESw4ek7VqSOzmZaSww2lroibbvMWXN4o/edit?usp=sharing
+
 # Getting Started
 TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
 1.	Installation process
