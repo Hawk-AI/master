@@ -1,25 +1,10 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# Links importantes de Drive 
 
-# Google Drive Files with Gantt Chart & Study Paths 
+## Listado de Requerimientos 
+https://docs.google.com/document/d/1AGhAxVuXtxCdWDn4Wh1Gbpm6ybDEk2MOzTSyaxGWq4E/edit
 
-Shared Folder: https://drive.google.com/drive/folders/1xElf940wS1ivP94xGNbZU0nvooIliiuL?usp=sharing
-Gantt Chart: https://docs.google.com/spreadsheets/d/158jgmuGLLzKESw4ek7VqSOzmZaSww2lroibbvMWXN4o/edit?usp=sharing
+## Lenguaje Ubiquo y Dominos
+https://docs.google.com/document/d/1fa5iV2aUl7_7eV24VgaGwibUvZOIO9S4MtkIBHKlOvI/
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
-
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
-
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
-
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+## Context Diagram 
+https://docs.google.com/document/d/1tOqhqJJBpnEkJtGLqPKUsPwKNWYG0eoltFULUdaKNas/edit
