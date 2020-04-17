@@ -85,3 +85,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
+git subtree for Merging multiple repositories
+https://www.jvt.me/posts/2018/06/01/git-subtree-monorepo/
