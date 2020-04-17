@@ -1,10 +1,29 @@
-# Project Title
+# Hawk AI 
 
 One Paragraph of project description goes here
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Repositories
+
+HawkAi's master repository joins other 3 repositories as git subtrees. In order to add a new subtree to the master respitory the following command must be executed: 
+
+```
+git subtree add --prefix={local directory being pulled into (subtreeDirectory) } {remote repo URL} {remote branch} 
+```
+In order to pull commits from a remote repository into the master repository the following command must be executed. Note that the user must have contributer access in order to succesfully pull from private repos. 
+
+```
+git subtree pull --prefix={subtreeDirectory} https://github.com/newfivefour/vimrc.git master
+```
+
+In order to push changes to a remote repository from the master repository the following command must be executed. Note that the user must have contributer access in order to succesfully push to the remote repo. 
+
+```
+git subtree push --prefix={subtreeDirectory} https://github.com/newfivefour/vimrc.git master
+```
 
 ### Prerequisites
 
