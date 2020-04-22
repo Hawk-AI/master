@@ -1,0 +1,22 @@
+{
+  "name": "hawkai-infrastructure",
+  "version": "1.0.0",
+  "description": "First Test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/hawkai1/hawkai-infrastructure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/hawkai1/hawkai-infrastructure/issues"
+  },
+  "homepage": "https://gitlab.com/hawkai1/hawkai-infrastructure#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
