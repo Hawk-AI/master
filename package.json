@@ -4,6 +4,7 @@
   "description": "Readme Test Commit",
   "main": "server.js",
   "scripts": {
+    "run": "node index.js",
     "test": "mocha --exit"
   },
   "repository": {
