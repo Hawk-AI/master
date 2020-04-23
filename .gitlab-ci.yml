@@ -1,13 +1,16 @@
-stages:
- - build 
+image: node:latest
 
-docker-build:
-  image: docker:latest
-  stage: build
-  services:
-    - docker:dind
-  before_script:
-    - docker login -u "$CI_REGISTRY_USER" -p "$CI_REGISTRY_PASSWORD" $CI_REGISTRY
-  script:
-    - docker build --pull -t "$CI_REGISTRY_IMAGE" .
-    - docker push "$CI_REGISTRY_IMAGE"
+before_script:
+    - apt-get update -qy
+    - apt-get install -y ruby-dev
+    - gem install dpl
+
+stages:
+    - production
+
+production:
+    type: deploy
+    stage: production
+    image: ruby:latest
+    script:
+      - dpl --provider=heroku --app=$HEROKU_APP --api-key=$HEROKU_API_KEY
