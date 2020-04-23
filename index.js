@@ -2,15 +2,11 @@
 
 const express = require('express');
 
-
-const PORT = 80;
-const HOST = '0.0.0.0';
-
 const app = express();
 
 app.get('/', (req,res) => {
     res.send("PRIMERA PRUEBA, HOLA EDMUNDO.2")
 });
 
-app.listen(PORT,HOST)
-console.log(`Running on http://${HOST}:${PORT}`);
+app.listen(process.env.PORT || 3000, 
+	() => console.log("Server is running..."));
