@@ -1,0 +1,23 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Readme Test Commit",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://HawkAIGT@bitbucket.org/hawkaiteam/dev.git"
+  },
+  "author": "Fernando Gonzalez",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/hawkaiteam/dev#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.1",
+    "supertest": "^4.0.2"
+  }
+}
