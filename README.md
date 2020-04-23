@@ -1,6 +1,6 @@
 # HawkAI Infrastructure
 
-HawkAI's cloud infrastructure - automation and CI/CD Pileline
+HawkAI's cloud infrastructure - automation and CI/CD Pileline :)
 
 
 # Contributors
