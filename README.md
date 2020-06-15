@@ -106,3 +106,11 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * etc
 git subtree for Merging multiple repositories
 https://www.jvt.me/posts/2018/06/01/git-subtree-monorepo/
+HawkAI's cloud infrastructure - automation and CI/CD Pileline :)
+
+
+# Contributors
+* José Alejandro Guzmán Zamora
+* Victor Andre Farfán Miranda
+* Juan Fernando González
+* José Alejandro Madrazo Ávila
