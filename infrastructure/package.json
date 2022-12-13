@@ -17,7 +17,7 @@
   },
   "homepage": "https://gitlab.com/hawkai1/hawkai-infrastructure#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "engines": {
     "node":"12.16.2",
